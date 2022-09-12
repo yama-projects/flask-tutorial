@@ -1,0 +1,11 @@
+
+# export
+export FLASK_APP=app
+
+# if you run this flask app in debug mode, you should exec this cmd  before next cmd. 
+export FLASK_ENV=development
+
+# run flask app   
+python3 -m flask run
+
+
